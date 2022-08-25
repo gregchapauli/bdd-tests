@@ -1,0 +1,10 @@
+{
+  "name": "bdd-tests",
+  "version": "1.0.0",
+  "description": "test fonctionnel avec Cucumber",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.5.2"
+  }
+}
