@@ -6,5 +6,8 @@
   "license": "MIT",
   "devDependencies": {
     "@cucumber/cucumber": "^8.5.2"
+  },
+  "scripts": {
+    "cucumber": "./node_modules/.bin/cucumber-js"
   }
 }
