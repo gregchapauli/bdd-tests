@@ -1,4 +1,5 @@
-const { setWorldConstructor } = require("@cucumber/cucumber");
+import { setWorldConstructor } from "@cucumber/cucumber";
+//const { setWorldConstructor } = require("@cucumber/cucumber");
 
 class CustomWorld {
   constructor() {

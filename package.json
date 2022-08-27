@@ -8,6 +8,12 @@
     "@cucumber/cucumber": "^8.5.2"
   },
   "scripts": {
-    "cucumber": "./node_modules/.bin/cucumber-js"
+    "cucumber": "./node_modules/.bin/cucumber-js --require-module @babel/register --require-module @babel/polyfill -f json:cucumber_report.json -f progress"
+  },
+  "dependencies": {
+    "@babel/core": "^7.18.13",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.18.10",
+    "@babel/register": "^7.18.9"
   }
 }
