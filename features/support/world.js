@@ -7,7 +7,7 @@ class CustomWorld {
   setTo(number) {
     this.variable = number;
   }
-  IncrementBy(number) {
+  incrementBy(number) {
     this.variable += number;
   }
 }
