@@ -15,11 +15,11 @@
             "line": 7,
             "name": "a variable set to 1",
             "match": {
-              "location": "features\\support\\step.js:9"
+              "location": "features\\support\\steps.js:9"
             },
             "result": {
               "status": "passed",
-              "duration": 1909999
+              "duration": 992900
             }
           },
           {
@@ -28,11 +28,11 @@
             "line": 8,
             "name": "I increment the variable by 1",
             "match": {
-              "location": "features\\support\\step.js:12"
+              "location": "features\\support\\steps.js:12"
             },
             "result": {
               "status": "passed",
-              "duration": 407700
+              "duration": 407399
             }
           },
           {
@@ -41,11 +41,11 @@
             "line": 9,
             "name": "the variable should be 2",
             "match": {
-              "location": "features\\support\\step.js:15"
+              "location": "features\\support\\steps.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 473000
+              "duration": 272099
             }
           }
         ],
@@ -76,11 +76,11 @@
             "line": 12,
             "name": "first param of multiplication set to 2",
             "match": {
-              "location": "features\\support\\step.js:29"
+              "location": "features\\support\\steps.js:29"
             },
             "result": {
               "status": "passed",
-              "duration": 355000
+              "duration": 177799
             }
           },
           {
@@ -89,11 +89,11 @@
             "line": 13,
             "name": "I multiply 10",
             "match": {
-              "location": "features\\support\\step.js:32"
+              "location": "features\\support\\steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 424199
+              "duration": 565800
             }
           },
           {
@@ -102,11 +102,11 @@
             "line": 14,
             "name": "the variable result of multiplication should be 20",
             "match": {
-              "location": "features\\support\\step.js:35"
+              "location": "features\\support\\steps.js:35"
             },
             "result": {
               "status": "passed",
-              "duration": 307299
+              "duration": 341700
             }
           }
         ],
@@ -126,11 +126,11 @@
             "line": 12,
             "name": "first param of multiplication set to 0",
             "match": {
-              "location": "features\\support\\step.js:29"
+              "location": "features\\support\\steps.js:29"
             },
             "result": {
               "status": "passed",
-              "duration": 157200
+              "duration": 116600
             }
           },
           {
@@ -139,11 +139,11 @@
             "line": 13,
             "name": "I multiply 0",
             "match": {
-              "location": "features\\support\\step.js:32"
+              "location": "features\\support\\steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 159300
+              "duration": 126699
             }
           },
           {
@@ -152,11 +152,11 @@
             "line": 14,
             "name": "the variable result of multiplication should be 0",
             "match": {
-              "location": "features\\support\\step.js:35"
+              "location": "features\\support\\steps.js:35"
             },
             "result": {
               "status": "passed",
-              "duration": 937300
+              "duration": 329400
             }
           }
         ],
@@ -176,11 +176,11 @@
             "line": 12,
             "name": "first param of multiplication set to 2",
             "match": {
-              "location": "features\\support\\step.js:29"
+              "location": "features\\support\\steps.js:29"
             },
             "result": {
               "status": "passed",
-              "duration": 348699
+              "duration": 1522599
             }
           },
           {
@@ -189,11 +189,11 @@
             "line": 13,
             "name": "I multiply 0",
             "match": {
-              "location": "features\\support\\step.js:32"
+              "location": "features\\support\\steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 587399
+              "duration": 509400
             }
           },
           {
@@ -202,11 +202,11 @@
             "line": 14,
             "name": "the variable result of multiplication should be 0",
             "match": {
-              "location": "features\\support\\step.js:35"
+              "location": "features\\support\\steps.js:35"
             },
             "result": {
               "status": "passed",
-              "duration": 215100
+              "duration": 243600
             }
           }
         ],
@@ -226,11 +226,11 @@
             "line": 12,
             "name": "first param of multiplication set to 100",
             "match": {
-              "location": "features\\support\\step.js:29"
+              "location": "features\\support\\steps.js:29"
             },
             "result": {
               "status": "passed",
-              "duration": 513200
+              "duration": 518800
             }
           },
           {
@@ -239,11 +239,11 @@
             "line": 13,
             "name": "I multiply 10",
             "match": {
-              "location": "features\\support\\step.js:32"
+              "location": "features\\support\\steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 92799
+              "duration": 125400
             }
           },
           {
@@ -252,11 +252,11 @@
             "line": 14,
             "name": "the variable result of multiplication should be 1000",
             "match": {
-              "location": "features\\support\\step.js:35"
+              "location": "features\\support\\steps.js:35"
             },
             "result": {
               "status": "passed",
-              "duration": 71799
+              "duration": 144299
             }
           }
         ],
@@ -276,11 +276,11 @@
             "line": 12,
             "name": "first param of multiplication set to 12",
             "match": {
-              "location": "features\\support\\step.js:29"
+              "location": "features\\support\\steps.js:29"
             },
             "result": {
               "status": "passed",
-              "duration": 59499
+              "duration": 125499
             }
           },
           {
@@ -289,11 +289,11 @@
             "line": 13,
             "name": "I multiply 10",
             "match": {
-              "location": "features\\support\\step.js:32"
+              "location": "features\\support\\steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 60599
+              "duration": 119500
             }
           },
           {
@@ -302,11 +302,11 @@
             "line": 14,
             "name": "the variable result of multiplication should be 120",
             "match": {
-              "location": "features\\support\\step.js:35"
+              "location": "features\\support\\steps.js:35"
             },
             "result": {
               "status": "passed",
-              "duration": 60400
+              "duration": 103699
             }
           }
         ],
@@ -326,11 +326,11 @@
             "line": 12,
             "name": "first param of multiplication set to 20",
             "match": {
-              "location": "features\\support\\step.js:29"
+              "location": "features\\support\\steps.js:29"
             },
             "result": {
               "status": "passed",
-              "duration": 57300
+              "duration": 70199
             }
           },
           {
@@ -339,11 +339,11 @@
             "line": 13,
             "name": "I multiply 30",
             "match": {
-              "location": "features\\support\\step.js:32"
+              "location": "features\\support\\steps.js:32"
             },
             "result": {
               "status": "passed",
-              "duration": 59499
+              "duration": 78199
             }
           },
           {
@@ -352,11 +352,11 @@
             "line": 14,
             "name": "the variable result of multiplication should be 600",
             "match": {
-              "location": "features\\support\\step.js:35"
+              "location": "features\\support\\steps.js:35"
             },
             "result": {
               "status": "passed",
-              "duration": 79400
+              "duration": 162400
             }
           }
         ],
@@ -387,11 +387,11 @@
             "line": 6,
             "name": "first param of sum set to 2",
             "match": {
-              "location": "features\\support\\step.js:19"
+              "location": "features\\support\\steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 194999
+              "duration": 190599
             }
           },
           {
@@ -400,11 +400,11 @@
             "line": 7,
             "name": "I add 10",
             "match": {
-              "location": "features\\support\\step.js:22"
+              "location": "features\\support\\steps.js:22"
             },
             "result": {
               "status": "passed",
-              "duration": 291500
+              "duration": 240900
             }
           },
           {
@@ -413,11 +413,11 @@
             "line": 8,
             "name": "the variable result of sum should be 12",
             "match": {
-              "location": "features\\support\\step.js:25"
+              "location": "features\\support\\steps.js:25"
             },
             "result": {
               "status": "passed",
-              "duration": 183000
+              "duration": 256699
             }
           }
         ],
@@ -437,11 +437,11 @@
             "line": 11,
             "name": "first param of sum set to 2",
             "match": {
-              "location": "features\\support\\step.js:19"
+              "location": "features\\support\\steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 142400
+              "duration": 125100
             }
           },
           {
@@ -450,11 +450,11 @@
             "line": 12,
             "name": "I add 10",
             "match": {
-              "location": "features\\support\\step.js:22"
+              "location": "features\\support\\steps.js:22"
             },
             "result": {
               "status": "passed",
-              "duration": 147400
+              "duration": 101000
             }
           },
           {
@@ -463,11 +463,11 @@
             "line": 13,
             "name": "the variable result of sum should be 12",
             "match": {
-              "location": "features\\support\\step.js:25"
+              "location": "features\\support\\steps.js:25"
             },
             "result": {
               "status": "passed",
-              "duration": 280100
+              "duration": 542999
             }
           }
         ],
@@ -487,11 +487,11 @@
             "line": 11,
             "name": "first param of sum set to 0",
             "match": {
-              "location": "features\\support\\step.js:19"
+              "location": "features\\support\\steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 164100
+              "duration": 177600
             }
           },
           {
@@ -500,11 +500,11 @@
             "line": 12,
             "name": "I add 0",
             "match": {
-              "location": "features\\support\\step.js:22"
+              "location": "features\\support\\steps.js:22"
             },
             "result": {
               "status": "passed",
-              "duration": 151599
+              "duration": 111299
             }
           },
           {
@@ -513,11 +513,11 @@
             "line": 13,
             "name": "the variable result of sum should be 0",
             "match": {
-              "location": "features\\support\\step.js:25"
+              "location": "features\\support\\steps.js:25"
             },
             "result": {
               "status": "passed",
-              "duration": 129800
+              "duration": 114900
             }
           }
         ],
@@ -537,11 +537,11 @@
             "line": 11,
             "name": "first param of sum set to 2",
             "match": {
-              "location": "features\\support\\step.js:19"
+              "location": "features\\support\\steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 107500
+              "duration": 88800
             }
           },
           {
@@ -550,11 +550,11 @@
             "line": 12,
             "name": "I add 0",
             "match": {
-              "location": "features\\support\\step.js:22"
+              "location": "features\\support\\steps.js:22"
             },
             "result": {
               "status": "passed",
-              "duration": 107100
+              "duration": 53699
             }
           },
           {
@@ -563,11 +563,11 @@
             "line": 13,
             "name": "the variable result of sum should be 2",
             "match": {
-              "location": "features\\support\\step.js:25"
+              "location": "features\\support\\steps.js:25"
             },
             "result": {
               "status": "passed",
-              "duration": 462599
+              "duration": 394200
             }
           }
         ],
@@ -587,11 +587,11 @@
             "line": 11,
             "name": "first param of sum set to 100",
             "match": {
-              "location": "features\\support\\step.js:19"
+              "location": "features\\support\\steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 156300
+              "duration": 82499
             }
           },
           {
@@ -600,11 +600,11 @@
             "line": 12,
             "name": "I add 10",
             "match": {
-              "location": "features\\support\\step.js:22"
+              "location": "features\\support\\steps.js:22"
             },
             "result": {
               "status": "passed",
-              "duration": 202500
+              "duration": 52700
             }
           },
           {
@@ -613,11 +613,11 @@
             "line": 13,
             "name": "the variable result of sum should be 110",
             "match": {
-              "location": "features\\support\\step.js:25"
+              "location": "features\\support\\steps.js:25"
             },
             "result": {
               "status": "passed",
-              "duration": 115200
+              "duration": 40499
             }
           }
         ],
@@ -637,11 +637,11 @@
             "line": 11,
             "name": "first param of sum set to 12",
             "match": {
-              "location": "features\\support\\step.js:19"
+              "location": "features\\support\\steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 118700
+              "duration": 40999
             }
           },
           {
@@ -650,11 +650,11 @@
             "line": 12,
             "name": "I add 10",
             "match": {
-              "location": "features\\support\\step.js:22"
+              "location": "features\\support\\steps.js:22"
             },
             "result": {
               "status": "passed",
-              "duration": 268900
+              "duration": 65700
             }
           },
           {
@@ -663,11 +663,11 @@
             "line": 13,
             "name": "the variable result of sum should be 22",
             "match": {
-              "location": "features\\support\\step.js:25"
+              "location": "features\\support\\steps.js:25"
             },
             "result": {
               "status": "passed",
-              "duration": 119899
+              "duration": 329600
             }
           }
         ],
@@ -687,11 +687,11 @@
             "line": 11,
             "name": "first param of sum set to 20",
             "match": {
-              "location": "features\\support\\step.js:19"
+              "location": "features\\support\\steps.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 91900
+              "duration": 124700
             }
           },
           {
@@ -700,11 +700,11 @@
             "line": 12,
             "name": "I add 30",
             "match": {
-              "location": "features\\support\\step.js:22"
+              "location": "features\\support\\steps.js:22"
             },
             "result": {
               "status": "passed",
-              "duration": 84699
+              "duration": 105900
             }
           },
           {
@@ -713,11 +713,11 @@
             "line": 13,
             "name": "the variable result of sum should be 50",
             "match": {
-              "location": "features\\support\\step.js:25"
+              "location": "features\\support\\steps.js:25"
             },
             "result": {
               "status": "passed",
-              "duration": 68700
+              "duration": 83600
             }
           }
         ],

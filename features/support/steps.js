@@ -1,8 +1,9 @@
-import { Given, When, Then } from "@cucumber/cucumber";
 //const { Given, When, Then } = require("@cucumber/cucumber");
+import { Given, When, Then } from "@cucumber/cucumber";
 const assert = require("assert").strict;
 
 //feature increment
+
 Given("a variable set to {int}", function (number) {
   this.setTo(number);
 });
