@@ -15,11 +15,11 @@
             "line": 7,
             "name": "a variable set to 1",
             "match": {
-              "location": "features\\support\\step.js:8"
+              "location": "features\\support\\step.js:9"
             },
             "result": {
               "status": "passed",
-              "duration": 704900
+              "duration": 1909999
             }
           },
           {
@@ -28,11 +28,11 @@
             "line": 8,
             "name": "I increment the variable by 1",
             "match": {
-              "location": "features\\support\\step.js:11"
+              "location": "features\\support\\step.js:12"
             },
             "result": {
               "status": "passed",
-              "duration": 171599
+              "duration": 407700
             }
           },
           {
@@ -41,11 +41,11 @@
             "line": 9,
             "name": "the variable should be 2",
             "match": {
-              "location": "features\\support\\step.js:14"
+              "location": "features\\support\\step.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 608399
+              "duration": 473000
             }
           }
         ],
@@ -59,6 +59,317 @@
     "name": "Incrementation feature",
     "tags": [],
     "uri": "features\\increment.feature"
+  },
+  {
+    "description": "    this is a multiplication of 2 numbers\n\n    Scenario : multiplication of 2 numbers\n        Given first param of multiplication set to 2\n        When I multiply 10\n        Then the variable result of multiplication should be 20",
+    "elements": [
+      {
+        "description": "",
+        "id": "multiplication;multiplication-of-2-numbers",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "multiplication of 2 numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "first param of multiplication set to 2",
+            "match": {
+              "location": "features\\support\\step.js:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 355000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "I multiply 10",
+            "match": {
+              "location": "features\\support\\step.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 424199
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "the variable result of multiplication should be 20",
+            "match": {
+              "location": "features\\support\\step.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 307299
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "multiplication;multiplication-of-2-numbers",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "multiplication of 2 numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "first param of multiplication set to 0",
+            "match": {
+              "location": "features\\support\\step.js:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 157200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "I multiply 0",
+            "match": {
+              "location": "features\\support\\step.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 159300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "the variable result of multiplication should be 0",
+            "match": {
+              "location": "features\\support\\step.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 937300
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "multiplication;multiplication-of-2-numbers",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "multiplication of 2 numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "first param of multiplication set to 2",
+            "match": {
+              "location": "features\\support\\step.js:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 348699
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "I multiply 0",
+            "match": {
+              "location": "features\\support\\step.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 587399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "the variable result of multiplication should be 0",
+            "match": {
+              "location": "features\\support\\step.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 215100
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "multiplication;multiplication-of-2-numbers",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "multiplication of 2 numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "first param of multiplication set to 100",
+            "match": {
+              "location": "features\\support\\step.js:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 513200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "I multiply 10",
+            "match": {
+              "location": "features\\support\\step.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 92799
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "the variable result of multiplication should be 1000",
+            "match": {
+              "location": "features\\support\\step.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 71799
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "multiplication;multiplication-of-2-numbers",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "multiplication of 2 numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "first param of multiplication set to 12",
+            "match": {
+              "location": "features\\support\\step.js:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 59499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "I multiply 10",
+            "match": {
+              "location": "features\\support\\step.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 60599
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "the variable result of multiplication should be 120",
+            "match": {
+              "location": "features\\support\\step.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 60400
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "multiplication;multiplication-of-2-numbers",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "multiplication of 2 numbers",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "first param of multiplication set to 20",
+            "match": {
+              "location": "features\\support\\step.js:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 57300
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "I multiply 30",
+            "match": {
+              "location": "features\\support\\step.js:32"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 59499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "the variable result of multiplication should be 600",
+            "match": {
+              "location": "features\\support\\step.js:35"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 79400
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "multiplication",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "multiplication",
+    "tags": [],
+    "uri": "features\\multiply.feature"
   },
   {
     "description": "    this is a simple sum of 2 numbers",
@@ -75,9 +386,12 @@
             "keyword": "Given ",
             "line": 6,
             "name": "first param of sum set to 2",
+            "match": {
+              "location": "features\\support\\step.js:19"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 194999
             }
           },
           {
@@ -85,9 +399,12 @@
             "keyword": "When ",
             "line": 7,
             "name": "I add 10",
+            "match": {
+              "location": "features\\support\\step.js:22"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 291500
             }
           },
           {
@@ -95,9 +412,12 @@
             "keyword": "Then ",
             "line": 8,
             "name": "the variable result of sum should be 12",
+            "match": {
+              "location": "features\\support\\step.js:25"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 183000
             }
           }
         ],
@@ -116,9 +436,12 @@
             "keyword": "Given ",
             "line": 11,
             "name": "first param of sum set to 2",
+            "match": {
+              "location": "features\\support\\step.js:19"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 142400
             }
           },
           {
@@ -126,9 +449,12 @@
             "keyword": "When ",
             "line": 12,
             "name": "I add 10",
+            "match": {
+              "location": "features\\support\\step.js:22"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 147400
             }
           },
           {
@@ -136,9 +462,12 @@
             "keyword": "Then ",
             "line": 13,
             "name": "the variable result of sum should be 12",
+            "match": {
+              "location": "features\\support\\step.js:25"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 280100
             }
           }
         ],
@@ -157,9 +486,12 @@
             "keyword": "Given ",
             "line": 11,
             "name": "first param of sum set to 0",
+            "match": {
+              "location": "features\\support\\step.js:19"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 164100
             }
           },
           {
@@ -167,9 +499,12 @@
             "keyword": "When ",
             "line": 12,
             "name": "I add 0",
+            "match": {
+              "location": "features\\support\\step.js:22"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 151599
             }
           },
           {
@@ -177,9 +512,12 @@
             "keyword": "Then ",
             "line": 13,
             "name": "the variable result of sum should be 0",
+            "match": {
+              "location": "features\\support\\step.js:25"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 129800
             }
           }
         ],
@@ -198,9 +536,12 @@
             "keyword": "Given ",
             "line": 11,
             "name": "first param of sum set to 2",
+            "match": {
+              "location": "features\\support\\step.js:19"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 107500
             }
           },
           {
@@ -208,9 +549,12 @@
             "keyword": "When ",
             "line": 12,
             "name": "I add 0",
+            "match": {
+              "location": "features\\support\\step.js:22"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 107100
             }
           },
           {
@@ -218,9 +562,12 @@
             "keyword": "Then ",
             "line": 13,
             "name": "the variable result of sum should be 2",
+            "match": {
+              "location": "features\\support\\step.js:25"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 462599
             }
           }
         ],
@@ -239,9 +586,12 @@
             "keyword": "Given ",
             "line": 11,
             "name": "first param of sum set to 100",
+            "match": {
+              "location": "features\\support\\step.js:19"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 156300
             }
           },
           {
@@ -249,9 +599,12 @@
             "keyword": "When ",
             "line": 12,
             "name": "I add 10",
+            "match": {
+              "location": "features\\support\\step.js:22"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 202500
             }
           },
           {
@@ -259,9 +612,12 @@
             "keyword": "Then ",
             "line": 13,
             "name": "the variable result of sum should be 110",
+            "match": {
+              "location": "features\\support\\step.js:25"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 115200
             }
           }
         ],
@@ -280,9 +636,12 @@
             "keyword": "Given ",
             "line": 11,
             "name": "first param of sum set to 12",
+            "match": {
+              "location": "features\\support\\step.js:19"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 118700
             }
           },
           {
@@ -290,9 +649,12 @@
             "keyword": "When ",
             "line": 12,
             "name": "I add 10",
+            "match": {
+              "location": "features\\support\\step.js:22"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 268900
             }
           },
           {
@@ -300,9 +662,12 @@
             "keyword": "Then ",
             "line": 13,
             "name": "the variable result of sum should be 22",
+            "match": {
+              "location": "features\\support\\step.js:25"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 119899
             }
           }
         ],
@@ -321,9 +686,12 @@
             "keyword": "Given ",
             "line": 11,
             "name": "first param of sum set to 20",
+            "match": {
+              "location": "features\\support\\step.js:19"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 91900
             }
           },
           {
@@ -331,9 +699,12 @@
             "keyword": "When ",
             "line": 12,
             "name": "I add 30",
+            "match": {
+              "location": "features\\support\\step.js:22"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 84699
             }
           },
           {
@@ -341,9 +712,12 @@
             "keyword": "Then ",
             "line": 13,
             "name": "the variable result of sum should be 50",
+            "match": {
+              "location": "features\\support\\step.js:25"
+            },
             "result": {
-              "status": "undefined",
-              "duration": 0
+              "status": "passed",
+              "duration": 68700
             }
           }
         ],

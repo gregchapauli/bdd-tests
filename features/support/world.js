@@ -1,5 +1,7 @@
-import { setWorldConstructor } from "@cucumber/cucumber";
 //const { setWorldConstructor } = require("@cucumber/cucumber");
+import { setWorldConstructor } from "@cucumber/cucumber";
+import sum from "../sum";
+import multiplication from "../multiplication";
 
 class CustomWorld {
   constructor() {
@@ -10,6 +12,12 @@ class CustomWorld {
   }
   incrementBy(number) {
     this.variable += number;
+  }
+  sum(number) {
+    this.variable = sum(this.variable, number);
+  }
+  multiplication(number) {
+    this.variable = multiplication(this.variable, number);
   }
 }
 
